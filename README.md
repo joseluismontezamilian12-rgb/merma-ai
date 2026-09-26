@@ -34,6 +34,15 @@ npm run build     # production build (dist/)
 
 Designed and iterated with AI assistance (Claude) from real store artifacts: delivery guides, SAP stock-exit records and the store's product spec sheet. Ported from the original prototype's storage API to `localStorage` for standalone deployment.
 
+---
+
+## Author
+
+**José Luis Monteza Milian** — Backend / Full-Stack Developer (.NET · React · TypeScript), Lima, Peru.  
+[Portfolio](https://joseluismontezamilian12-rgb.github.io/portafolio-frontend/) · [LinkedIn](https://www.linkedin.com/in/joseluismonteza) · [GitHub](https://github.com/joseluismontezamilian12-rgb)
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
